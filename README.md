@@ -14,3 +14,9 @@ Built with **Tkinter**, **pandas**, and **pywhatkit**.
 git clone https://github.com/<username>/whatsapp-bulk-messenger.git
 cd whatsapp-bulk-messenger
 pip install -r requirements.txt
+
+**⚠️ Notes**
+
+WhatsApp Web must be logged in before running.
+
+Designed for Indian numbers (+91 prefix). Modify for other countries.
